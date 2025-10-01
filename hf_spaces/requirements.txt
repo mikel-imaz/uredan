@@ -1,0 +1,9 @@
+pandas
+gradio
+langchain-core
+langchain-openai
+langgraph
+wikipedia
+typing
+IPython
+tabulate
